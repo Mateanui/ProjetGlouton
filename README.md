@@ -2,10 +2,7 @@
 Application de l'algorithme glouton
 
 ## Lancement de l'algorithme
-
-# Exécuter la commande :
-
-> java -jar projet_glouton.jar
+> Décompresser le fichier Projet_Glouton_ARAPARI_Mateanui_NDAYISHIMA_Divin.tar.gz
 
 > Exécuter la commande "java -jar nomFileJar.jar" ou lancer le fichier .sh "./launch.sh" (N'oubliez pas de faire un "chmod u+x launch.sh")
 
